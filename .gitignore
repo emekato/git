@@ -1,0 +1,6 @@
+*.csv
+*.fasta
+*.pdf
+*.xls
+results/
+data/
