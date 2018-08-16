@@ -3,8 +3,9 @@
 
 # In[1]:
 
+name = "wonderwoman"
 
-name = "Hideaki"
+name = "superman"
 
 
 # In[20]:
